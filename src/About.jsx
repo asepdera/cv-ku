@@ -23,13 +23,13 @@ export default function About() {
             </Box>
             <Box height={'100%'} px={{ xs: '25px', lg: '5rem' }} display={'flex'} gap={'20px'} py={{ xs: '2rem', lg: '4rem' }} flexDirection={{ xs: 'column', lg: 'row' }}>
                 <Box width={{ xs: '100%', lg: '50%' }}>
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/sDqMlD8Rk8Y?si=2VjfHGR2gMe1YvOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/9KiRXTfe7IQ?si=pceN0In339ya8xRj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </Box>
                 <Box width={{ xs: '100%', lg: '50%' }}>
                     <Typography variant='h3' fontSize={{ xs: '27px', lg: '48px' }}>Video Penjelasan</Typography>
                     <Typography variant='h5' mt={'15px'} fontSize={{ xs: '17px', lg: '24px' }}>Berikut adalah video penjelasan dari website cv yang saya buat</Typography>
                 </Box>
-                <Link href="https://www.youtube.com/embed/sDqMlD8Rk8Y?si=2VjfHGR2gMe1YvOK" target="_blank" width={'max-content'} borderRadius={'7px'} padding={'14px 28px'} style={{ textDecoration: 'none' }} bgcolor={'#121122'} color={'#fff'} display={{ xs: 'block', lg: 'none' }}>Lihat Di Youtube</Link>
+                <Link href="https://www.youtube.com/embed/9KiRXTfe7IQ?si=pceN0In339ya8xRj" target="_blank" width={'max-content'} borderRadius={'7px'} padding={'14px 28px'} style={{ textDecoration: 'none' }} bgcolor={'#121122'} color={'#fff'} display={{ xs: 'block', lg: 'none' }}>Lihat Di Youtube</Link>
             </Box>
             <Box px={{ xs: 4, lg: 14 }} py={5} bgcolor={"#252628"}>
                 <Box display={'flex'} flexDirection={{ xs: 'column', lg: 'row' }}>
